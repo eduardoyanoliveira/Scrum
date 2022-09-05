@@ -1,14 +1,14 @@
 # Scrum Strengths
 
-* ## Continuos delivery and improvement
+* ### Continuos delivery and improvement
 
-* ## Empowerment
+* ### Empowerment
 
-* ## Cross-Functional Teams
+* ### Cross-Functional Teams
 
-* ## Self Organization
+* ### Self Organization
 
-* ## Focus on short term objectives; Iterative Approach
+* ### Focus on short term objectives; Iterative Approach
 
 
 
