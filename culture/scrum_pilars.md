@@ -7,7 +7,7 @@ In the scrum everybody knows what is being done, what are the pendencies and wha
 
 * ## Inspection
 
-The current work (scrum artifact) is always being inspected to review progress and what has been changed.
+The current work is always being inspected to review progress and what has been changed.
 
 * ## Adaptation
 
