@@ -16,6 +16,4 @@
 
 * The Sprint Retrospective
 
-### Obs:
-
 The sprint also limits exposure to risk and cost.
