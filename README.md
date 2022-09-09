@@ -1,7 +1,7 @@
 # Scrum
 
 Scrum is the most used agile methodology world wide.It provides a framework to develop high-valued products and services fast.<br>
-In tis repository you will find a complete guide to learn everything to start the Scrum Culture in your project.<br>
+In this repository you will find a complete guide to learn everything to start the Scrum Culture in your project.<br>
 
 To learn more about scrum, be sure to read carefully all the files on this repository.
 
